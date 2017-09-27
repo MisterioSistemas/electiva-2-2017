@@ -1,0 +1,40 @@
+body{
+    background: #E8E8E8;
+}
+
+.mdl-cell{
+    -webkit-box-shadow: 4px 13px 10px 0px rgba(160,160,160,1);
+    -moz-box-shadow: 4px 13px 10px 0px rgba(160,160,160,1);
+    box-shadow: 4px 13px 10px 0px rgba(160,160,160,1);
+    border-style: ridge ;
+
+}
+.section-grid{
+    max-width: 1044px;
+
+}
+
+.formulario{
+    background: #FAFAFA;
+   margin: auto;
+}
+
+i{
+
+}
+
+.formulario2{
+    background: #FAFAFA;
+
+}
+
+.iconos{
+    margin-top: -10px;
+    padding-top: 4px;
+
+}
+
+.otraletra{
+    font-family: Slabo;
+
+}
