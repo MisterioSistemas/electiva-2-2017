@@ -1,0 +1,68 @@
+.sections {
+    background: white;
+    -moz-box-shadow: 0px 0px 5px 1px rgba(0, 0, 0, 0.1);
+    -webkit-box-shadow: 0px 0px 5px 1px rgba(0, 0, 0, 0.1);
+    box-shadow: 0px 0px 5px 1px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
+    padding: 1em;
+    width: inherit;
+    max-width: 320px;
+    overflow: hidden;
+    display: inline;
+    float: left;
+    position: relative;
+    margin-left: 10px;
+    margin-right: 10px;
+    transform: translate(0, 0);
+}
+
+.sections.level3 {
+    background: white;
+    -moz-box-shadow: 0px 0px 5px 1px rgba(0, 0, 0, 0.1);
+    -webkit-box-shadow: 0px 0px 5px 1px rgba(0, 0, 0, 0.1);
+    box-shadow: 0px 0px 5px 1px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
+    padding: 1em;
+    width: inherit;
+    max-width: 320px;
+    overflow: hidden;
+    display: inline;
+    float: left;
+    position: relative;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.sections.level2 {
+    background: white;
+    -moz-box-shadow: 0px 0px 5px 1px rgba(0, 0, 0, 0.1);
+    -webkit-box-shadow: 0px 0px 5px 1px rgba(0, 0, 0, 0.1);
+    box-shadow: 0px 0px 5px 1px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
+    padding: 1em;
+    width: inherit;
+    max-width: 620px;
+    overflow: hidden;
+    display: inline;
+    float: left;
+    position: relative;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.sections.level1 {
+    background: white;
+    -moz-box-shadow: 0px 0px 5px 1px rgba(0, 0, 0, 0.1);
+    -webkit-box-shadow: 0px 0px 5px 1px rgba(0, 0, 0, 0.1);
+    box-shadow: 0px 0px 5px 1px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
+    padding: 1em;
+    width: inherit;
+    max-width: 980px;
+    overflow: hidden;
+    display: inline;
+    float: left;
+    position: relative;
+    margin-left: 10px;
+    margin-right: 10px;
+}
